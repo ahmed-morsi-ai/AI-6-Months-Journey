@@ -1,2 +1,0 @@
-success copy 'book'copy txt.
-success copy 'book'copy txt.
